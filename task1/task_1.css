@@ -1,0 +1,90 @@
+#b2{
+    height: 300px;
+    width: 30%;
+    background-image: url('images/bg_1.jpg');
+    background-size: 100%100%;
+    float: left;
+}
+#b3{
+    height: 300px;
+    width: 30%;
+    background-image: url('images/bg_2.jpg');
+    background-size: 100%100%;
+    float: left;
+}
+#b4{
+    height: 300px;
+    width: 30%;
+    background-image: url('images/bg_4.jpg');
+    background-size: 100%100%;
+    float: left;
+}
+#b5{
+    height: 300px;
+    width: 30%;
+    background-image: url('images/bg_5.jpg');
+    background-size: 100%100%;
+    float: left;
+}
+#b6{
+    height: 300px;
+    width: 30%;
+    background-image: url('images/bg_8.jpg');
+    background-size: 100%100%;
+    float: left;
+}
+#b7{
+    height: 300px;
+    width: 30%;
+    background-image: url('images/bg_6.avif');
+    background-size: 100%100%;
+    float: left;
+}
+.inline{
+	display: inline;
+}
+.p1{
+	padding-top:120px ;
+	padding-left: 40px;
+}
+#bt1{
+	border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border: 1px solid white;
+    margin-left: 5px;
+}
+#bt2{
+	border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: blue;
+    background-color: white;
+    border: 1px solid blue;
+    margin-left: 5px;
+}
+#div1{
+    height: 300px;
+    width: 90%;
+    background-color: blue;
+    margin-left: 55px;
+}
+#div2{
+    height: 100px;
+    width: 90%;
+    background-color: blue;
+    margin-left: 55px;
+}
+.clr{
+    color: blue;
+}
+.center {
+    text-align: center;
+}
+.mar{
+    margin-right: 150px;
+}
